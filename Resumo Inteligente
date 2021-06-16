@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Resumo Inteligente</title>
+</head>
+<body>
+    <div class="container">
+        <div class="top-container">
+            <div class="texto">
+                <h2>Busca de palavra e expressões em livros e artigos com ranqueamento por aparição e relevância</h2>
+                <br/>
+
+                <p>Arquivo de busca por palavras e expressões contendo funcionalidade para busca bruta e ranqueada.<br>Trará um arquivo PDF de saída para os resultados encontrados de acordo com a palavra inserida.</p>
+                <br/>
+
+                <p>Instruções para ultilizar o programa:</p> 
+                <br/>
+
+                <ol>
+                    <li>Baixe o programa, clicando no botão escrito "Baixar".</li>
+                    <li>Extraia o arquivo compactado.</li>
+                    <li>Escolha o texto em PDF que você pretende utilizar no software.</li>
+                    <li>Coloque o texto na pasta do software.</li>
+                    <li>Renomeie o seu PDF para "texto".</li>
+                    <li>Execute o "cod.exe", para rodar o programa.</li>
+                </ol>
+            </div>
+
+            <div class="imagem">
+                <img src="busca.jpeg" alt="Imagem representativa busca"/>
+            </div>
+        </div>
+        <div class="bottom-container">
+            <p id="button">Clique para fazer o download do programa</p>
+            <a href="RI.rar" class="button"><h2 id="button_black">Baixar</h2></a>
+        </div>
+    </div>
+</body>
+</html>
